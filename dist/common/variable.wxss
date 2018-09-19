@@ -1,0 +1,78 @@
+/*字体颜色*/
+.color-yellow {
+  color: #ff0;
+}
+.color-light-yellow {
+  color: #dd9;
+}
+.color-gray {
+  color: #9A9B74;
+}
+.color-brown {
+  color: #886536;
+}
+.color-large-brown {
+  color: #D0740A;
+}
+.color-white {
+  color: #fff;
+}
+.color-red {
+  color: #F00;
+}
+/*字体大小*/
+.font-weight {
+  font-weight: bolder;
+}
+.fz-30 {
+  font-size: 60rpx;
+}
+.fz-18 {
+  font-size: 36rpx;
+}
+.fz-16 {
+  font-size: 32rpx;
+}
+.fz-14 {
+  font-size: 28rpx;
+}
+.fz-12 {
+  font-size: 24rpx;
+}
+.fz-7 {
+  font-size: 14rpx;
+}
+/*背景颜色*/
+.bg-black {
+  background-color: #44361C;
+}
+.bg-white {
+  background-color: #fff;
+}
+.bg-orange {
+  background-color: #ff5600;
+}
+.bg-blue {
+  background-color: #068fc1;
+}
+.comment-bg-orange {
+  background-color: #ffe4c8;
+}
+.comment-bg-blue {
+  background-color: #bce3f9;
+}
+.border {
+  border: 1px solid #ccc;
+}
+.p-10 {
+  padding: 5rpx 10rpx;
+}
+.p-13 {
+  padding: 10rpx 13rpx;
+}
+.border-radius-5 {
+  border-radius: 10rpx;
+}
+.width-100 {
+  width: 100%;
+}
